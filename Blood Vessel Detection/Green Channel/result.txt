@@ -1,0 +1,1 @@
+This folder will contain the Green Channel image of the orignal image after running the blood_vessel_canny_edge.py file.
